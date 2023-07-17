@@ -1,7 +1,8 @@
+## Olá! Eu sou o Bruno Lopes 👋🏻
 
-### Olá, eu sou o Bruno Lopes 👋🏻
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunolf23&layout=compact&langs_count=16&theme=vue-dark"/>
 
-<img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunolf23&layout=compact&langs_count=16&theme=vue-dark"/>
+## Tecnologias que eu uso no meu dia
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Bruno-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
