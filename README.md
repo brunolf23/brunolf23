@@ -1,5 +1,3 @@
-## Olá! Eu sou o Bruno Lopes 👋🏻
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunolf23&layout=compact&langs_count=16&theme=vue-dark"/>
 
 ## Tecnologias que eu uso no meu dia
