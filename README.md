@@ -2,9 +2,22 @@
 <h2> Olá, seja bem-vindo! </h2>
 </div>
 
-Meu nome é Bruno Lopes Figueiredo<br> Estou mudando de profissão, de técnico de informática para desenvolvedor backend atualmente.<br> Estou fazendo faculdade de Análise e Desenvolvimento de Sistema e realizando alguns cursos extras para aprender Python. Possuo conhecimento em HTML, CSS e Git. <br> Pretendo me tornar um desenvolvedor full stack no futuro. <br><br>
-<img src="https://thumbs2.imgbox.com/f9/cd/gGLrvkcZ_t.png" alt="image host"/></a>
+<h4 align="center">
+<p>Meu nome é Bruno Lopes Figueiredo<p/>
+<p>Estou mudando de profissão, de técnico de informática para desenvolvedor backend<p/>
+<p>Estou fazendo faculdade de Análise e Desenvolvimento de Sistema e realizando alguns cursos extras para aprender Python<p/>
+<p>Possuo conhecimento em HTML, CSS e Git atualmente<p/>
+<h4/>
 
-<div align="center">
-<h2></h2>
-</div>
+<br />
+
+<p align="center">
+    <i>Você pode me encontrar através do link abaixo ou olhar os meus projetos já feitos:</i>
+    <br/><br/>
+    <a href="https://www.linkedin.com/in/bruno-lopes-517585268/" target="_blank">
+        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+    </a>
+    <a href=" link " target="_blank">
+        <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio Badge" />
+    </a>
+</p>
