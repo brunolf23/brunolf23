@@ -19,3 +19,11 @@
         <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio Badge" />
     </a>
 </p>
+
+<details>
+    <summary>Linguagens Utilizadas</summary>
+    <br/>
+    <p>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=brunolf23&layout=compact&theme=dark&locale=en&langs_count=10" alt="Techs used in projects" width="495px" />
+    </p>
+</details>
