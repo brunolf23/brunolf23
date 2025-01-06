@@ -4,7 +4,7 @@
 <p>Meu nome é Bruno Lopes Figueiredo<p/>
 <p>Estou mudando de profissão, de técnico de informática para desenvolvedor backend<p/>
 <p>Estou fazendo faculdade de Análise e Desenvolvimento de Sistema e realizando alguns cursos extras para aprender C#<p/>
-<p>Possuo conhecimento em Git, HTML, CSS, Javascript e estou estudando Node e React<p/>
+<p>Possuo conhecimento em Git, HTML, CSS, Javascript e estou estudando Node.js e React<p/>
 <h4/>
 
 <br/>
